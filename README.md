@@ -10,7 +10,7 @@
 composer install
 ```
 
-Configs located at config/*.php
+Configs located at `src/config/*.php`
 
 Some of them use environment variables. You can directly export them or via file.
 Supported env variables are in the file `.env.example`.
